@@ -17,7 +17,6 @@ Docker es un proyecto de código abierto, que utiliza el kernel de Linux, utiliz
 
 ## **hello-world**
 
----
 
 Para descargar una imágen ya diseñada de Docker Hub se usa `docker pull`. Para descargar la imágen de `hello-world` se ejecuta lo siguiente: 
 
@@ -33,11 +32,11 @@ docker run hello-world
 
 Obteniendo el siguiente resultado: 
 
-![Run hello world](img/runHelloWorld.png)
+<img src="img/runHelloWorld.png" height="250">
+
 
 ## **Docker Funbox**
 
----
 
 Para descargar la imágen y estartearla utilizamos los siguientes comandos:
 ```docker
@@ -54,7 +53,6 @@ Y obtenemos lo siguiente:
 
 ## **Docker Funbox**
 
----
 
 Para descargar la imágen y estartearla utilizamos los siguientes comandos:
 
@@ -70,7 +68,8 @@ docker run --name tetris --detach --publish 8888:80 --restart always ociotec/tet
 
 Si vamos a nuestro navegador y vamos al `localhost:8888`:
 
-![Resultado tetris](img/resultadotetris.png)
+<img src="img/resultadotetris.png" height="300">
+
 
 ## Referencias
 
