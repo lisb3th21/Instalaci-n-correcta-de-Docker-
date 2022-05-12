@@ -8,7 +8,7 @@
 
 <details close>
  <summary> <h2>¿Qué es Docker? </h2>  </summary> 
-<br>
+
 Docker es un proyecto de código abierto, que utiliza el kernel de Linux, utilizado principalmente para la automatización del despliegue de aplicaciones. 
 
 </details>
