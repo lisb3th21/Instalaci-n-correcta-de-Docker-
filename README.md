@@ -38,6 +38,7 @@ Obteniendo el siguiente resultado:
 ## **Docker Funbox**
 
 ---
+
 Para descargar la imágen y estartearla utilizamos los siguientes comandos:
 ```docker
 docker pull wernight/funbox
@@ -54,6 +55,7 @@ Y obtenemos lo siguiente:
 ## **Docker Funbox**
 
 ---
+
 Para descargar la imágen y estartearla utilizamos los siguientes comandos:
 
 ```docker
