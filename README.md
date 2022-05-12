@@ -15,4 +15,16 @@ Docker es un proyecto de código abierto, que utiliza el kernel de Linux, utiliz
 
 
 
-https://www.redhat.com/es/topics/containers/what-is-docker
+
+
+
+## Referencias
+
+- [¿Qué es DOCKER?](https://www.redhat.com/es/topics/containers/what-is-docker )
+
+
+
+```
+docker pull hello-world
+docker run hello-world
+```
